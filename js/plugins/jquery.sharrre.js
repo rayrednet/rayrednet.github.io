@@ -48,7 +48,7 @@
                     annotation: ''
                 },
                 facebook: { //http://developers.facebook.com/docs/reference/plugins/like/
-                    url: '', //if you need to personalize url button
+                    url: 'https://www.facebook.com/rayssa.ravelia', //if you need to personalize url button
                     urlCount: false, //if you want to use personnalize button url on global counter
                     action: 'like',
                     layout: 'button_count',
@@ -60,7 +60,7 @@
                     lang: 'en_US'
                 },
                 twitter: { //http://twitter.com/about/resources/tweetbutton
-                    url: '', //if you need to personalize url button
+                    url: 'https://twitter.com/yeayray', //if you need to personalize url button
                     urlCount: false, //if you want to use personnalize button url on global counter
                     count: 'horizontal',
                     hashtags: '',
