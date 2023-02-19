@@ -42,7 +42,7 @@ Beberapa `fungsi` dari jquery-3.2.1 yaitu: manipulasi elemen HTML, animasi, Ajax
 - popper.min.js
 File popper.min.js adalah file JavaScript yang berisi kode sumber dari pustaka `Popper.js` yang telah di-minifikasi untuk mengurangi ukuran file dan mempercepat proses pengunduhan pada halaman web. 
 
-Beberapa `fungsi` pooper.min.js yaitu menempatkan elemen HTML, menciptakan efek interaktif, meningkatkan user experience, memperbaiki kesalahan dalam peningkatana elemen HTML.
+Beberapa `fungsi` pooper.min.js yaitu menempatkan elemen HTML, menciptakan efek interaktif, meningkatkan user experience, memperbaiki kesalahan dalam peningkatan elemen HTML.
 
 ### Plugins
 
