@@ -80,7 +80,7 @@
 .bootstrap-switch .bootstrap-switch-handle-on.bootstrap-switch-brown,
 .bootstrap-switch .bootstrap-switch-handle-off.bootstrap-switch-brown {
   color: #fff;
-  background: #378C3F; }
+  background: #ac61b6; }
 
 .bootstrap-switch .bootstrap-switch-handle-on.bootstrap-switch-blue,
 .bootstrap-switch .bootstrap-switch-handle-off.bootstrap-switch-blue {
@@ -90,7 +90,7 @@
 .bootstrap-switch .bootstrap-switch-handle-on.bootstrap-switch-green,
 .bootstrap-switch .bootstrap-switch-handle-off.bootstrap-switch-green {
   color: #fff;
-  background: #18ce0f; }
+  background: #b67eb3; }
 
 .bootstrap-switch .bootstrap-switch-handle-on.bootstrap-switch-orange,
 .bootstrap-switch .bootstrap-switch-handle-off.bootstrap-switch-orange {
@@ -481,13 +481,13 @@
   background-color: #FFFFFF; }
 
 .slider.slider-primary .noUi-connect, .slider.slider-primary.noUi-connect {
-  background-color: #378C3F; }
+  background-color: #71378c; }
 
 .slider.slider-primary.noUi-target {
-  background-color: rgba(55, 140, 63, 0.4); }
+  background-color: rgba(137, 55, 140, 0.4); }
 
 .slider.slider-primary .noUi-handle {
-  background-color: #378C3F; }
+  background-color: #b65dae; }
 
 .slider.slider-info .noUi-connect, .slider.slider-info.noUi-connect {
   background-color: #2CA8FF; }
