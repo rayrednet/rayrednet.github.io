@@ -40,11 +40,28 @@ Di dalam folder ini ada 3 file yang digunakan:
 Beberapa `fungsi` dari jquery-3.2.1 yaitu: manipulasi elemen HTML, animasi, Ajax, menagani event, dan meningkatkan cross-browser compability
 
 - popper.min.js
+
 File popper.min.js adalah file JavaScript yang berisi kode sumber dari pustaka `Popper.js` yang telah di-minifikasi untuk mengurangi ukuran file dan mempercepat proses pengunduhan pada halaman web. 
 
 Beberapa `fungsi` pooper.min.js yaitu menempatkan elemen HTML, menciptakan efek interaktif, meningkatkan user experience, memperbaiki kesalahan dalam peningkatan elemen HTML.
 
 ### Plugins
+Terdapat 4 file yang digunakan yaitu:
+- bootstrap-datepicker.js
+
+`Bootstrap Datepicker` adalah plugin JavaScript yang memperluas kemampuan kerangka kerja Bootstrap dengan menambahkan `kalender` yang dapat dipilih pada elemen input tanggal. File bootstrap-datepicker.js adalah file JavaScript yang berisi kode sumber dari plugin Bootstrap Datepicker.
+
+- bootstrap-switch.js
+
+`Bootstrap Switch` adalah plugin JavaScript yang memperluas kemampuan kerangka kerja Bootstrap dengan menambahkan `kontrol switch (saklar)` yang dapat dipilih pada elemen input. File bootstrap-switch.js adalah file JavaScript yang berisi kode sumber dari plugin Bootstrap Switch
+
+- jquery.sharre.js
+
+`jQuery Sharre` adalah plugin JavaScript yang memperluas kemampuan kerangka kerja jQuery dengan menambahkan tombol berbagi `(share button)` untuk berbagai platform media sosial seperti Facebook, Twitter, dan Google+. File jquery.sharre.js adalah file JavaScript yang berisi kode sumber dari plugin jQuery Sharre.
+
+- nouislider.js
+
+`Nouislider` adalah plugin JavaScript yang memperluas kemampuan kerangka kerja JavaScript dengan menambahkan `kontrol geser` (slider) interaktif yang dapat disesuaikan dan dapat digunakan untuk berbagai tujuan seperti rentang harga, waktu, atau pengaturan kustom lainnya. File nouislider.js adalah file JavaScript yang berisi kode sumber dari plugin Nouislider.
 
 ### Main
 
