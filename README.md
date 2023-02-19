@@ -67,15 +67,16 @@ Terdapat 4 file yang digunakan yaitu:
 
 File `main.js` adalah file JavaScript yang sering digunakan sebagai file utama untuk mengatur perilaku dan tampilan pada halaman web. File ini berisi kode sumber untuk mengatur interaksi dan dinamika pada halaman web yang berkaitan dengan fungsi-fungsi seperti tampilan, animasi, validasi input, dan lain sebagainya.
 
+Untuk animasi scroll dijalankan sekali
 ```ruby
 $(document).ready(function() {
   AOS.init( {
-    // uncomment below for on-scroll animations to played only once
     // once: true  
   }); // initialize animate on scroll library
 });
-
-// Smooth scroll for links with hashes
+```
+Animasi scroll untuk link dengan hashes
+```ruby
 $('a.smooth-scroll')
 .click(function(event) {
   // On-page links
