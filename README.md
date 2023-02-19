@@ -24,7 +24,29 @@ Dengan menggunakan Bootstrap, saya dapat `menghemat waktu` dan upaya dalam menge
 File `main.css` merupakan file yang sangat penting dalam pengembangan website karena memungkinkan untuk `mengontrol dan menyesuaika` tampilan website secara keseluruhan. Dalam file ini, saya membuat aturan gaya yang spesifik untuk website mereka dan menghasilkan tampilan yang konsisten dan menarik untuk pengguna. Hal-hal yang saya atur adalah `warna dan jenis font, tata letak, efek visual, dan responsivitas`.
 
 ## JS
+File JS digunakan untuk pustaka JavaScript. Terdapat 3 bagian JS yang digunakan:
 
+### Core
+Di dalam folder ini ada 3 file yang digunakan:
+
+- bootstrap.min.js
+
+`Bootstrap.min.js` adalah file JavaScript yang termasuk dalam Bootstrap, dan berfungsi untuk mengaktifkan berbagai fitur interaktif pada elemen HTML, seperti navigasi yang responsif, dialog modal, dropdown, jendela geser (carousel), tooltip, dan masih banyak lagi.
+
+- jquery.3.2.1.min.js
+
+`File jquery-3.2.1.min.js` adalah file JavaScript yang berisi kode sumber dari pustaka jQuery versi 3.2.1 yang telah di-minifikasi untuk mengurangi ukuran file dan mempercepat proses pengunduhan pada halaman web.
+
+Beberapa `fungsi` dari jquery-3.2.1 yaitu: manipulasi elemen HTML, animasi, Ajax, menagani event, dan meningkatkan cross-browser compability
+
+- popper.min.js
+File popper.min.js adalah file JavaScript yang berisi kode sumber dari pustaka `Popper.js` yang telah di-minifikasi untuk mengurangi ukuran file dan mempercepat proses pengunduhan pada halaman web. 
+
+Beberapa `fungsi` pooper.min.js yaitu menempatkan elemen HTML, menciptakan efek interaktif, meningkatkan user experience, memperbaiki kesalahan dalam peningkatana elemen HTML.
+
+### Plugins
+
+### Main
 
 ## Images
 Terdapat 3 foto dengan format `jpg` yang saya gunakan dalam CV ini, yaitu:
