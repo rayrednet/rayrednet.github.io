@@ -27,6 +27,17 @@ File `main.css` merupakan file yang sangat penting dalam pengembangan website ka
 
 
 ## Images
+Terdapat 3 foto dengan format `jpg` yang saya gunakan dalam CV ini, yaitu:
+- cc-bg
 
+digunakan untuk background header CV
+
+- map
+
+digunakan untuk background footer CV
+
+- rayssa
+
+digunakan untuk foto pribadi pada CV
 
 ## HTML
