@@ -7,7 +7,7 @@
 
 Pada CV yang saya buat terdapat beberapa bagian file yakni CSS, JS, images, dan HTML. Berikut ini adalah penjelasan detailnya:
 
-## CSS
+## A. CSS
 CSS merupakan bahasa yang digunakan untuk membuat desain dokumen HTML. Terdapat 3 file yang saya gunakan yaitu:
 - aos.css
 
@@ -23,7 +23,7 @@ Dengan menggunakan Bootstrap, saya dapat `menghemat waktu` dan upaya dalam menge
 
 File `main.css` merupakan file yang sangat penting dalam pengembangan website karena memungkinkan untuk `mengontrol dan menyesuaika` tampilan website secara keseluruhan. Dalam file ini, saya membuat aturan gaya yang spesifik untuk website mereka dan menghasilkan tampilan yang konsisten dan menarik untuk pengguna. Hal-hal yang saya atur adalah `warna dan jenis font, tata letak, efek visual, dan responsivitas`.
 
-## JS
+## B. JS
 File JS digunakan untuk pustaka JavaScript. Terdapat 3 bagian JS yang digunakan:
 
 ### Core
@@ -111,7 +111,7 @@ $('a.smooth-scroll')
 });
 ```
 
-## Images
+## C. Images
 Terdapat 3 foto dengan format `jpg` yang saya gunakan dalam CV ini, yaitu:
 - cc-bg.jpg
 
@@ -125,7 +125,7 @@ digunakan untuk background footer CV
 
 digunakan untuk foto pribadi pada CV
 
-## HTML
+## D. HTML
 
 File `index.html` adalah file utama pada sebuah proyek web yang berisi `markup untuk menampilkan konten` pada halaman web. File ini adalah halaman web yang pertama kali diakses oleh pengguna ketika membuka situs web, dan berisi struktur HTML yang mengatur konten halaman web.
 
