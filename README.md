@@ -1,9 +1,11 @@
-# Tugas PWEB (CV dengan HTML)
+# PWeb_Tugas1_5025211219
 
 ## Identitas
-| Name           | NRP        | Kelas     |
-| ---            | ---        | ----------|
-| Rayssa Ravelia | 5025211219 |Probstat A |
+| Name           | NRP        | Kelas     | Tahun Ajaran      |
+| ---            | ---        | ----------|---                |
+| Rayssa Ravelia | 5025211219 |PWEB A     | 2022/2023 (Genap) |
+
+Link deploy [web](https://rayrednet.github.io/)
 
 Pada CV yang saya buat terdapat beberapa bagian file yakni CSS, JS, images, dan HTML. Berikut ini adalah penjelasan detailnya:
 
